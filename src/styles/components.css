@@ -1,0 +1,35 @@
+.btn {
+  display: block;
+  width: 18rem;
+  height: 6rem;
+  margin-left: auto;
+  margin-right: auto;
+  background: var(--bg-btn);
+  color: var(--link-color);
+  font-family: var(--secondary-font);
+  border-radius: 10rem;
+  text-align: center;
+  line-height: 6rem;
+}
+.none-btn {
+  outline: none;
+  border: none;
+}
+a {
+  text-decoration: none;
+}
+.heading {
+  font-family: var(--archivo-font);
+  font-size: 3.3rem;
+  color: var(--heading-color);
+}
+.title {
+  font-family: var(--archivo-font);
+  color: var(--title-color);
+  font-size: 2rem;
+  font-weight: 700;
+}
+.caption {
+  color: var(--caption-color);
+  font-size: 1.4rem;
+}
