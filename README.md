@@ -10,3 +10,4 @@ The [Main Page](https://arminbabaei.github.io/Camping-Web/) of the website is th
 
 ![](https://img.shields.io/github/languages/count/arminbabaei/Camping-Web)
 ![](https://img.shields.io/github/languages/top/arminbabaei/Camping-Web?style=flat&logo=html5&logoColor=%23ffffff&labelColor=%23FC4F13)
+![](https://img.shields.io/github/repo-size/arminbabaei/Camping-Web%20)
